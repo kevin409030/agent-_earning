@@ -1,0 +1,18 @@
+﻿C:\Users\24135\AppData\Roaming\360browser
+C:\Users\24135\AppData\Roaming\360huabao
+C:\Users\24135\AppData\Roaming\kaixinhuabao
+C:\Users\24135\AppData\Roaming\360Login
+C:\Users\24135\AppData\Roaming\360Safe
+C:\Users\24135\AppData\Roaming\360se6
+C:\Users\24135\AppData\Roaming\greencore
+C:\Users\24135\AppData\Roaming\GreenCore7z
+C:\Users\24135\AppData\Local\Temp\360hb_tmp
+C:\Users\24135\AppData\Local\Temp\360UnPackTmp
+C:\Users\24135\AppData\Local\Temp\360se16.0.6018.0.exe
+C:\Users\24135\AppData\Local\Temp\360se16.0.6018.0.cab
+C:\ProgramData\360SD
+C:\Program Files (x86)\360
+C:\Users\24135\Desktop\360安全浏览器.lnk
+C:\Users\Public\Desktop\360安全浏览器.lnk
+C:\Users\24135\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\360安全浏览器
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\360安全浏览器

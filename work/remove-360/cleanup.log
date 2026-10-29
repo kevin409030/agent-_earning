@@ -1,0 +1,24 @@
+﻿Started: 2026-10-27T14:44:07.7953142+08:00
+OK: Remove 360 scheduled tasks
+OK: Remove 360 startup entries
+OK: Stop and remove 360 services
+OK: Stop 360 processes
+OK: Remove C:\Users\24135\AppData\Roaming\360browser
+OK: Remove C:\Users\24135\AppData\Roaming\360huabao
+OK: Remove C:\Users\24135\AppData\Roaming\kaixinhuabao
+OK: Remove C:\Users\24135\AppData\Roaming\360Login
+OK: Remove C:\Users\24135\AppData\Roaming\360Safe
+OK: Remove C:\Users\24135\AppData\Roaming\360se6
+OK: Remove C:\Users\24135\AppData\Roaming\greencore
+OK: Remove C:\Users\24135\AppData\Roaming\GreenCore7z
+OK: Remove C:\Users\24135\AppData\Local\Temp\360hb_tmp
+OK: Remove C:\Users\24135\AppData\Local\Temp\360UnPackTmp
+OK: Remove C:\Users\24135\AppData\Local\Temp\360se16.0.6018.0.exe
+OK: Remove C:\Users\24135\AppData\Local\Temp\360se16.0.6018.0.cab
+OK: Remove C:\ProgramData\360SD
+OK: Remove C:\Program Files (x86)\360
+OK: Remove C:\Users\24135\Desktop\360安全浏览器.lnk
+OK: Remove C:\Users\Public\Desktop\360安全浏览器.lnk
+OK: Remove C:\Users\24135\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\360安全浏览器
+OK: Remove C:\ProgramData\Microsoft\Windows\Start Menu\Programs\360安全浏览器
+OK: Remove 360 installation and application registry entries
